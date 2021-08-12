@@ -1,0 +1,8 @@
+export const neighborhoods = 
+ '➡️ – Antes de executar o teste de velocidade, é importante verificar se não há nenhum dispositivo dentro da rede que esteja utilizando a internet para realizar downloads ou uploads de dados (atualizações, assistindo a vídeos, baixando conteúdo como programas ou arquivos, carregando imagens/vídeos em redes sociais etc), pois o resultado do teste de velocidade é a banda total disponível no momento.\n'
++'➡️ – De preferência realizar o teste a partir de um notebook ou computador que esteja conectado via cabo até o roteador, pois o sinal wifi está sujeito a sofrer interferência de vários fatores, o que prejudica o desempenho da navegação e consequentemente, no teste de velocidade realizado.\n'
++'➡️ – Saiba também, escolher um site ou app confiável para realizar o teste, como por exemplo Speedtest.net (Speedtest também possui app para dispositivos móveis).\n'
++'➡️ – Existem também limitações nas placas de rede dos dispositivos, placas mais antigas tem sua velocidade de tráfego limitada, dessa forma limitando a velocidade de planos de alta performance (acima de 100 mb).\n'
++'🆗 – Se mesmo após seguir todos os passos o resultado do teste de velocidade não estiver de acordo com o plano contratado, entre em contato com nosso suporte técnico e fale com um de nossos atendentes para encontrar a causa do problema e manter a estabilidade de sua conexão.\n'
++ '\n\n links para testes \n speedteste :\n https://www.speedtest.net/pt \n nperf:\n https://www.nperf.com/pt'
++ '\n'
