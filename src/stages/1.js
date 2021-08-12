@@ -14,7 +14,7 @@ export const stageOne = {
           msg += `1️⃣ - _${element.description}_ \n`;
         }
       });
-
+ 
       msg += storage[from].stage = 4;
 
       return msg;
